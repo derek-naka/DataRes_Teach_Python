@@ -8,4 +8,4 @@ Teaching_Python_ML.ipynb contains information regarding different types of machi
 
 Teaching_Python_NLP.ipynb contains information about how to extract information from text including number of sentences, word count, grade level reading, and how to vectorize senctences. 
 
-Teaching_Python_Img_Processing.ipynb contains information about how to extract words/text from images and difference pre-processing techniques that are available. 
+Teaching_Python_Img_Processing.ipynb contains information about how to extract words/text from images and different pre-processing techniques that are available. 
